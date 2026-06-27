@@ -159,8 +159,7 @@ python classification_model.py
 
 ## Author
 
-**Shan Udayan. S, 
-Tech Nova**
+**Shan Udayan. S**
 
 ## Conclusion
 

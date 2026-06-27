@@ -100,8 +100,7 @@ Week-2-ML-Projects-TechNovas/
 ├── linear_regression.py
 ├── classification_model.py
 ├── screenshots/
-│   ├── linear_regression_output.png
-│   ├── linear_regression_graph.png
+│   ├── linear_regression_output_and_graph.png
 │   └── classification_and_accuracy_output.png
 │
 └── README.md

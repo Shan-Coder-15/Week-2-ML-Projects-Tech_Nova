@@ -153,7 +153,7 @@ python classification_model.py
 
 ## Repository Name
 
-**Week-2-ML-Projects-TechNova**
+**Week-2-ML-Projects-Tech_Nova**
 
 ---
 

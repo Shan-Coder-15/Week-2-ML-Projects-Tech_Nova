@@ -112,10 +112,12 @@ Week-2-ML-Projects-TechNovas/
 ## Screenshots
 
 * Linear Regression Output
-  <img width="477" height="97" alt="Screenshot 2026-06-28 013507" src="https://github.com/user-attachments/assets/81fac169-df6d-416b-ab68-54bbeccff416" />
+ <img width="477" height="97" alt="Screenshot 2026-06-28 013507" src="https://github.com/user-attachments/assets/81fac169-df6d-416b-ab68-54bbeccff416" />
+
 
 * Linear Regression Graph
   <img width="762" height="565" alt="Screenshot 2026-06-28 013514" src="https://github.com/user-attachments/assets/db679bad-65b2-48fd-bbc7-36c50e13b8df" />
+
 
 * Classification Model and Accuracy Output
   <img width="252" height="66" alt="Screenshot 2026-06-28 003426" src="https://github.com/user-attachments/assets/acc1cd26-1768-4b56-9506-74faa864a938" />

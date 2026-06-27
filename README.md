@@ -2,8 +2,6 @@
 
 # Team Name: Tech Nova
 
----
-
 ## Objective
 
 The objective of this project is to understand the basics of Machine Learning by implementing **Linear Regression from Scratch** and building a **Classification Model**. These projects help us learn how machine learning algorithms make predictions and classify data.
